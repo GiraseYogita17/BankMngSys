@@ -8,6 +8,7 @@ public class Account {
 	private String panCardNo;
 	private long mobileNo;
 	private double accountBalance;
+        private String name1;
 
 	public long getAccountNo() {
 		return accountNo;
